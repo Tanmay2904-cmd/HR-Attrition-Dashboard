@@ -1,0 +1,6 @@
+# Generated files - don't push these
+data/
+models/
+__pycache__/
+*.pyc
+.streamlit/
