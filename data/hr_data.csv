@@ -1,0 +1,1501 @@
+Age,Department,Job role,MonthlyIncome,JobSatisfaction,OverTime,Attrition
+50,Marketing,Analyst,95324,3,Yes,0
+36,Sales,Analyst,91196,3,Yes,0
+29,Sales,Manager,90014,1,Yes,1
+42,Finance,Junior Executive,28210,3,No,0
+40,Operations,Senior Executive,30922,2,No,1
+44,Sales,Analyst,56289,2,No,0
+32,HR,Intern,53340,2,Yes,1
+32,Operations,Intern,59850,2,No,0
+45,HR,Junior Executive,76984,2,Yes,1
+57,Sales,Analyst,31094,3,Yes,1
+45,Sales,Manager,53418,3,No,0
+24,Finance,Intern,25741,2,Yes,1
+43,Sales,Junior Executive,92374,3,No,0
+23,Operations,Analyst,88798,3,No,0
+45,Operations,Analyst,90532,2,Yes,1
+51,Operations,Analyst,42164,3,No,0
+59,Finance,Analyst,55595,3,No,0
+23,Finance,Analyst,50257,3,No,0
+42,Sales,Intern,34211,2,No,1
+54,Engineering,Junior Executive,25232,3,Yes,1
+33,Engineering,Analyst,87753,1,No,0
+43,Finance,Senior Executive,72691,1,No,0
+46,Sales,Senior Executive,99768,2,No,0
+48,Engineering,Junior Executive,45613,1,Yes,1
+49,Sales,Manager,34026,2,No,1
+37,Sales,Manager,73535,1,Yes,1
+36,Sales,Manager,50908,1,No,0
+24,Marketing,Senior Executive,72113,1,No,0
+58,Operations,Manager,39610,2,No,1
+28,Sales,Intern,66646,2,Yes,1
+42,Marketing,Analyst,83185,3,Yes,0
+30,Finance,Senior Executive,92567,2,Yes,1
+39,Engineering,Junior Executive,67574,1,Yes,1
+25,Operations,Junior Executive,56182,1,Yes,1
+46,Engineering,Analyst,20570,2,Yes,1
+35,Operations,Senior Executive,39288,2,No,1
+30,Engineering,Manager,98824,2,Yes,1
+47,Operations,Manager,49877,3,No,0
+23,Engineering,Intern,20917,1,Yes,1
+41,Engineering,Intern,95602,3,Yes,0
+49,Engineering,Manager,84575,3,Yes,0
+28,Engineering,Junior Executive,92518,1,No,0
+29,Finance,Junior Executive,59104,1,Yes,1
+56,Sales,Intern,38062,2,Yes,1
+35,HR,Analyst,36999,2,No,1
+38,Marketing,Manager,81845,3,No,0
+57,HR,Intern,29941,2,No,1
+25,HR,Intern,81169,2,No,0
+23,Operations,Manager,43470,1,Yes,1
+27,Sales,Manager,79821,1,No,0
+25,Operations,Junior Executive,64435,2,Yes,1
+50,Sales,Analyst,24529,1,Yes,1
+39,Sales,Analyst,32192,2,No,1
+47,Engineering,Manager,94102,1,Yes,1
+55,Finance,Senior Executive,92762,1,No,0
+31,Engineering,Intern,54087,1,Yes,1
+57,Finance,Intern,86677,1,No,0
+35,Operations,Manager,24627,2,No,1
+52,Finance,Senior Executive,76541,3,No,0
+36,Operations,Junior Executive,88226,1,No,0
+29,HR,Manager,23255,2,No,1
+35,HR,Manager,77433,2,No,0
+44,Finance,Intern,25213,1,Yes,1
+42,Finance,Manager,39404,3,Yes,1
+37,Operations,Manager,45380,1,Yes,1
+39,Engineering,Manager,39173,2,No,1
+45,Operations,Intern,73027,3,Yes,0
+47,Engineering,Junior Executive,43989,2,No,0
+46,HR,Junior Executive,44519,1,Yes,1
+50,Sales,Manager,42439,3,Yes,0
+36,Finance,Intern,96949,2,No,0
+22,Engineering,Junior Executive,34995,2,Yes,1
+46,Operations,Junior Executive,43559,2,Yes,1
+28,HR,Junior Executive,25021,1,Yes,1
+30,Engineering,Intern,41119,3,No,0
+45,Operations,Intern,71539,1,Yes,1
+22,Finance,Manager,59350,1,No,0
+29,Finance,Analyst,66223,1,Yes,1
+45,Marketing,Junior Executive,45517,3,Yes,0
+32,Sales,Analyst,98653,1,Yes,1
+38,Marketing,Intern,42250,1,Yes,1
+29,HR,Intern,86798,1,No,0
+56,Engineering,Intern,74199,1,Yes,1
+56,HR,Analyst,79546,2,No,0
+54,Operations,Intern,23327,1,No,1
+26,Finance,Manager,49768,2,Yes,1
+49,Marketing,Intern,84418,1,Yes,1
+28,Marketing,Senior Executive,62788,3,No,0
+30,Marketing,Analyst,66830,2,No,0
+29,HR,Senior Executive,72446,2,Yes,1
+33,Finance,Intern,35160,2,Yes,1
+55,Engineering,Manager,76583,2,Yes,1
+54,Operations,Junior Executive,53998,3,Yes,0
+44,Engineering,Intern,47230,1,Yes,1
+45,HR,Manager,29076,2,No,1
+58,Operations,Analyst,89341,3,Yes,0
+56,Marketing,Senior Executive,51085,2,Yes,1
+43,Sales,Senior Executive,75571,1,No,0
+48,HR,Senior Executive,34715,2,Yes,1
+56,HR,Analyst,25750,3,Yes,1
+22,Finance,Manager,98768,1,No,0
+56,Engineering,Analyst,55903,3,Yes,0
+58,HR,Senior Executive,92489,1,No,0
+35,HR,Intern,52093,1,Yes,1
+24,Marketing,Junior Executive,54314,1,Yes,1
+22,Marketing,Analyst,68225,2,Yes,1
+26,Operations,Analyst,55179,3,No,0
+47,Sales,Manager,45338,3,No,0
+35,Finance,Manager,89681,3,No,0
+48,Sales,Analyst,52101,1,No,0
+30,Operations,Senior Executive,22775,2,Yes,1
+36,Marketing,Junior Executive,65619,1,No,0
+36,Engineering,Manager,65838,3,No,0
+47,Marketing,Senior Executive,39539,2,No,1
+34,Finance,Intern,77124,2,Yes,1
+53,Marketing,Manager,85149,2,Yes,1
+53,Finance,Senior Executive,46616,3,No,0
+25,Finance,Senior Executive,99655,2,No,0
+51,Finance,Junior Executive,74567,2,Yes,1
+58,Operations,Junior Executive,57099,1,No,0
+44,Finance,Intern,95831,1,No,0
+36,Finance,Senior Executive,81799,2,No,0
+50,Engineering,Senior Executive,45479,2,No,0
+57,Sales,Junior Executive,66172,1,Yes,1
+34,HR,Manager,75863,1,Yes,1
+53,Sales,Manager,62043,1,Yes,1
+28,Finance,Analyst,35408,3,No,0
+43,Engineering,Junior Executive,77980,3,No,0
+49,Marketing,Analyst,36351,1,Yes,1
+23,Engineering,Junior Executive,24131,2,Yes,1
+27,Finance,Intern,64825,1,Yes,1
+49,Engineering,Senior Executive,31349,3,No,0
+49,Engineering,Intern,80931,2,Yes,1
+41,Finance,Junior Executive,64254,3,No,0
+51,Operations,Senior Executive,58225,2,No,0
+32,Engineering,Manager,32453,3,Yes,1
+49,HR,Manager,38814,2,Yes,1
+46,HR,Analyst,38263,2,No,1
+54,Engineering,Junior Executive,97694,2,Yes,1
+22,Operations,Junior Executive,35735,2,Yes,1
+48,Marketing,Manager,35830,3,No,0
+34,Finance,Intern,67893,3,No,0
+24,HR,Senior Executive,64673,2,No,0
+27,Marketing,Intern,65066,2,No,0
+29,Engineering,Intern,23373,3,No,0
+48,Marketing,Manager,30335,2,Yes,1
+30,Sales,Manager,43741,2,No,0
+58,HR,Manager,30692,2,No,1
+54,Engineering,Analyst,67295,1,No,0
+45,Finance,Intern,65541,2,Yes,1
+36,Operations,Junior Executive,54057,1,No,0
+53,Engineering,Senior Executive,86983,2,No,0
+53,Finance,Analyst,39583,3,No,0
+45,Operations,Junior Executive,42765,1,Yes,1
+33,Operations,Intern,79287,1,No,0
+23,Engineering,Manager,43906,2,No,0
+24,Marketing,Intern,99675,2,No,0
+58,Marketing,Senior Executive,66525,1,Yes,1
+38,Operations,Analyst,58230,3,Yes,0
+23,Marketing,Analyst,39520,3,Yes,1
+23,Sales,Senior Executive,71934,2,Yes,1
+49,Operations,Junior Executive,45566,3,No,0
+44,Operations,Junior Executive,93193,3,No,0
+58,Finance,Analyst,50134,2,Yes,1
+53,Marketing,Analyst,30345,3,Yes,1
+54,Operations,Manager,61185,2,No,0
+22,Sales,Junior Executive,90744,1,No,0
+40,Finance,Senior Executive,53455,2,Yes,1
+23,Engineering,Junior Executive,48018,1,Yes,1
+47,Operations,Manager,74219,1,Yes,1
+53,Sales,Analyst,65991,3,Yes,0
+27,HR,Analyst,93616,3,No,0
+53,Sales,Manager,29486,3,Yes,1
+25,Sales,Senior Executive,58862,2,Yes,1
+32,Finance,Analyst,78870,3,No,0
+38,Engineering,Intern,63856,1,No,0
+59,HR,Analyst,51379,3,No,0
+45,Marketing,Intern,84729,3,No,0
+26,Marketing,Manager,48378,2,No,0
+55,Sales,Manager,74353,2,Yes,1
+27,Finance,Analyst,69996,1,Yes,1
+43,Finance,Junior Executive,34031,2,Yes,1
+32,Marketing,Intern,85982,3,No,0
+37,HR,Senior Executive,56683,2,Yes,1
+54,Engineering,Analyst,37618,1,No,1
+30,HR,Senior Executive,26587,3,Yes,1
+27,Operations,Analyst,82790,1,Yes,1
+37,Operations,Junior Executive,51480,2,No,0
+50,Engineering,Junior Executive,40527,2,No,0
+24,Marketing,Junior Executive,43569,1,Yes,1
+41,Engineering,Junior Executive,31151,3,Yes,1
+57,Finance,Manager,91094,2,Yes,1
+40,Operations,Manager,79174,2,Yes,1
+47,Sales,Intern,64739,3,Yes,0
+24,Sales,Senior Executive,52954,2,No,0
+40,Marketing,Analyst,55303,1,No,0
+41,Finance,Analyst,54700,2,No,0
+53,HR,Manager,87568,2,No,0
+28,Finance,Analyst,86788,3,Yes,0
+54,Sales,Manager,91045,1,Yes,1
+39,Sales,Intern,57842,3,No,0
+22,Operations,Senior Executive,33900,2,Yes,1
+32,Finance,Intern,21881,2,No,1
+49,Finance,Junior Executive,53037,3,Yes,0
+46,Sales,Junior Executive,21630,3,Yes,1
+44,HR,Junior Executive,40789,3,Yes,0
+52,Marketing,Intern,66151,1,No,0
+51,Marketing,Analyst,68920,2,No,0
+56,Finance,Senior Executive,87231,3,No,0
+28,Marketing,Junior Executive,23262,2,No,1
+37,Sales,Junior Executive,86981,1,Yes,1
+47,Sales,Junior Executive,95485,1,Yes,1
+23,Finance,Senior Executive,74722,1,Yes,1
+22,Finance,Junior Executive,70818,1,Yes,1
+33,Operations,Senior Executive,49932,2,No,0
+26,Finance,Junior Executive,26901,1,Yes,1
+58,HR,Intern,28597,1,Yes,1
+53,Marketing,Intern,83909,3,Yes,0
+30,Finance,Senior Executive,92391,1,No,0
+56,Engineering,Intern,28263,3,No,0
+40,Operations,Senior Executive,83293,1,No,0
+37,Engineering,Intern,45805,1,Yes,1
+24,Sales,Intern,31874,3,No,0
+41,Marketing,Senior Executive,34079,1,Yes,1
+45,Finance,Analyst,69850,2,Yes,1
+54,Engineering,Intern,92779,2,Yes,1
+45,Marketing,Junior Executive,29018,1,No,1
+32,Sales,Analyst,69500,2,No,0
+29,HR,Senior Executive,32100,3,Yes,1
+57,Operations,Analyst,77021,1,Yes,1
+59,Marketing,Manager,39800,1,No,1
+41,Marketing,Manager,83400,3,No,0
+56,HR,Intern,49437,3,No,0
+46,Marketing,Intern,96537,3,Yes,0
+56,Sales,Junior Executive,66675,1,Yes,1
+46,Sales,Analyst,39942,3,Yes,1
+50,HR,Manager,40862,3,No,0
+39,Operations,Intern,31669,2,No,1
+39,Finance,Analyst,73772,2,No,0
+23,Engineering,Intern,35916,1,Yes,1
+56,Finance,Intern,30878,2,Yes,1
+37,Marketing,Manager,22985,2,No,1
+57,Engineering,Manager,93648,3,Yes,0
+54,HR,Intern,61235,3,No,0
+25,HR,Senior Executive,38931,2,Yes,1
+54,Operations,Intern,20336,2,No,1
+35,Engineering,Intern,62933,2,Yes,1
+42,Sales,Junior Executive,65536,1,Yes,1
+41,Engineering,Junior Executive,89504,1,No,0
+29,Marketing,Junior Executive,71148,1,No,0
+28,Sales,Senior Executive,36279,2,No,1
+24,HR,Senior Executive,88665,2,No,0
+38,Engineering,Intern,91386,1,No,0
+54,Finance,Junior Executive,97485,1,Yes,1
+33,Operations,Senior Executive,94055,2,No,0
+43,Finance,Manager,97273,3,No,0
+43,Operations,Intern,86670,1,No,0
+51,Marketing,Analyst,96474,2,Yes,1
+59,Finance,Intern,74028,2,No,0
+59,Engineering,Analyst,91128,3,No,0
+29,Engineering,Junior Executive,38108,2,No,1
+48,Finance,Analyst,72495,2,Yes,1
+48,Engineering,Junior Executive,96533,1,Yes,1
+55,Marketing,Manager,76830,1,No,0
+42,Sales,Analyst,94640,3,Yes,0
+51,Marketing,Intern,72509,3,No,0
+54,Operations,Junior Executive,86406,2,Yes,1
+49,Marketing,Intern,59519,1,No,0
+54,Operations,Senior Executive,69649,3,Yes,0
+26,Engineering,Junior Executive,54524,3,No,0
+40,Sales,Analyst,53885,3,No,0
+25,Engineering,Junior Executive,64369,2,Yes,1
+56,HR,Intern,50676,1,No,0
+38,Engineering,Manager,84093,3,No,0
+49,Operations,Junior Executive,67764,1,No,0
+51,Engineering,Analyst,70799,3,No,0
+50,Engineering,Senior Executive,99414,3,Yes,0
+27,Sales,Manager,92307,1,No,0
+56,Engineering,Senior Executive,51923,1,Yes,1
+58,Sales,Junior Executive,98388,1,Yes,1
+45,Finance,Intern,67574,2,Yes,1
+50,HR,Intern,63391,3,Yes,0
+52,Sales,Analyst,73664,2,No,0
+56,Operations,Intern,87384,1,No,0
+54,Finance,Manager,51027,3,Yes,0
+42,Sales,Intern,55464,2,No,0
+53,Sales,Analyst,54485,3,Yes,0
+44,HR,Junior Executive,39456,2,No,1
+54,Operations,Junior Executive,94795,1,No,0
+24,Marketing,Intern,55554,2,No,0
+39,Marketing,Senior Executive,66922,3,Yes,0
+46,Sales,Junior Executive,33409,3,Yes,1
+52,Engineering,Intern,89327,3,No,0
+24,Operations,Analyst,56639,3,Yes,0
+45,Finance,Intern,83627,1,Yes,1
+53,Engineering,Junior Executive,39692,2,No,1
+43,Engineering,Analyst,98840,1,Yes,1
+44,Operations,Intern,74200,1,No,0
+23,Sales,Manager,77415,1,No,0
+48,Sales,Analyst,38074,3,No,0
+23,Sales,Manager,35549,3,Yes,1
+47,Sales,Senior Executive,49963,3,No,0
+38,Marketing,Analyst,72265,2,No,0
+54,Sales,Manager,36061,3,Yes,1
+30,Marketing,Junior Executive,78226,2,Yes,1
+50,Marketing,Junior Executive,48810,3,Yes,0
+47,Sales,Senior Executive,80006,3,Yes,0
+56,HR,Analyst,42800,1,No,0
+46,Finance,Analyst,95476,1,Yes,1
+45,Engineering,Analyst,89460,1,Yes,1
+34,Marketing,Senior Executive,77767,2,Yes,1
+28,Operations,Analyst,48054,2,Yes,1
+57,Operations,Junior Executive,95319,3,No,0
+41,Finance,Manager,65397,2,Yes,1
+22,Operations,Junior Executive,33233,3,No,0
+29,HR,Junior Executive,45068,2,Yes,1
+37,Operations,Manager,85727,2,No,0
+35,Engineering,Junior Executive,90453,2,No,0
+33,Engineering,Senior Executive,45832,1,Yes,1
+44,Marketing,Manager,33682,2,No,1
+36,Sales,Junior Executive,43383,1,Yes,1
+49,HR,Intern,78160,1,No,0
+55,Marketing,Junior Executive,43666,2,No,0
+23,HR,Senior Executive,78817,3,No,0
+53,Sales,Analyst,54642,3,Yes,0
+44,Operations,Junior Executive,61830,3,No,0
+43,Operations,Analyst,30234,2,Yes,1
+46,Sales,Intern,77616,3,No,0
+43,Marketing,Junior Executive,29221,1,No,1
+43,Sales,Manager,31410,3,No,0
+27,Finance,Analyst,81413,2,No,0
+36,Engineering,Intern,21051,3,No,0
+58,Marketing,Manager,95301,1,No,0
+54,HR,Manager,96918,2,Yes,1
+29,Finance,Manager,98116,3,Yes,0
+26,Marketing,Manager,76563,2,Yes,1
+25,Sales,Junior Executive,64757,2,No,0
+27,Sales,Junior Executive,97475,2,Yes,1
+53,Sales,Junior Executive,71257,3,No,0
+51,Sales,Intern,20307,2,Yes,1
+56,HR,Intern,76889,3,Yes,0
+37,Finance,Intern,88895,1,No,0
+34,Operations,Senior Executive,55944,3,No,0
+51,Engineering,Intern,58134,1,Yes,1
+40,HR,Junior Executive,47323,3,Yes,0
+38,HR,Junior Executive,91762,2,Yes,1
+40,Operations,Senior Executive,45954,3,Yes,0
+49,Operations,Senior Executive,75021,2,No,0
+47,Engineering,Intern,99866,1,Yes,1
+58,Engineering,Analyst,90427,3,No,0
+47,Operations,Senior Executive,24992,2,No,1
+44,Sales,Manager,21961,1,Yes,1
+30,HR,Junior Executive,32497,1,No,1
+33,Marketing,Manager,52551,3,Yes,0
+22,Engineering,Junior Executive,96384,1,No,0
+22,Engineering,Junior Executive,75755,2,No,0
+55,Operations,Senior Executive,33255,1,Yes,1
+53,Finance,Senior Executive,24567,1,No,1
+46,Marketing,Manager,68847,2,No,0
+22,Marketing,Junior Executive,68003,1,Yes,1
+37,Engineering,Manager,40389,1,No,0
+26,Sales,Analyst,64523,1,No,0
+43,Finance,Manager,81576,1,Yes,1
+50,Marketing,Intern,63919,2,Yes,1
+24,Engineering,Manager,23358,1,No,1
+33,Marketing,Intern,96524,2,No,0
+47,Finance,Intern,25698,1,No,1
+37,Finance,Intern,86809,1,Yes,1
+58,HR,Analyst,75805,1,No,0
+43,Operations,Manager,51349,1,No,0
+50,Operations,Manager,96777,2,No,0
+35,Engineering,Analyst,70248,2,No,0
+49,Finance,Junior Executive,95033,2,No,0
+26,HR,Senior Executive,64041,3,No,0
+51,HR,Manager,51954,1,Yes,1
+26,Marketing,Senior Executive,28002,1,Yes,1
+33,Marketing,Analyst,89783,2,No,0
+37,HR,Junior Executive,39738,3,No,0
+47,Marketing,Junior Executive,30703,1,Yes,1
+47,Finance,Junior Executive,69422,2,Yes,1
+42,Sales,Analyst,81899,1,Yes,1
+57,Finance,Intern,32392,1,No,1
+54,HR,Intern,64724,2,No,0
+51,HR,Senior Executive,52299,2,No,0
+58,Finance,Intern,35641,1,No,1
+44,Marketing,Intern,99534,1,Yes,1
+31,Marketing,Junior Executive,26305,2,Yes,1
+26,Operations,Junior Executive,38782,1,Yes,1
+57,HR,Senior Executive,98257,1,Yes,1
+55,Engineering,Manager,97963,2,No,0
+52,Operations,Senior Executive,40566,1,No,0
+31,Marketing,Senior Executive,87766,1,Yes,1
+40,Finance,Analyst,26511,3,Yes,1
+53,Marketing,Analyst,46177,2,Yes,1
+22,Finance,Senior Executive,24765,3,Yes,1
+26,Operations,Senior Executive,40354,3,Yes,0
+25,HR,Senior Executive,43929,3,No,0
+37,Marketing,Intern,48820,1,No,0
+45,Finance,Analyst,49523,1,Yes,1
+37,HR,Senior Executive,91088,3,Yes,0
+23,Engineering,Junior Executive,86163,3,Yes,0
+49,Finance,Junior Executive,97525,3,No,0
+53,Operations,Intern,33780,1,No,1
+48,Engineering,Intern,26589,3,No,0
+41,Engineering,Manager,54812,3,Yes,0
+45,Sales,Manager,65939,2,No,0
+33,Marketing,Manager,71493,2,Yes,1
+56,Finance,Intern,60953,1,No,0
+54,Engineering,Intern,85785,2,No,0
+54,Sales,Intern,39309,2,No,1
+58,Operations,Junior Executive,74195,2,Yes,1
+33,HR,Intern,45901,1,Yes,1
+24,Finance,Junior Executive,43576,2,No,0
+22,Engineering,Manager,51508,1,Yes,1
+54,Marketing,Manager,94711,3,Yes,0
+31,Sales,Manager,45464,2,Yes,1
+50,Engineering,Senior Executive,80281,1,Yes,1
+34,Marketing,Senior Executive,36260,2,Yes,1
+33,Engineering,Analyst,55440,3,Yes,0
+52,Finance,Analyst,76683,1,Yes,1
+23,Finance,Analyst,61430,1,No,0
+56,Finance,Senior Executive,21987,1,Yes,1
+44,Operations,Senior Executive,45105,3,Yes,0
+38,Operations,Analyst,98484,3,No,0
+47,Sales,Analyst,33026,3,No,0
+29,Finance,Intern,88309,1,No,0
+50,Marketing,Analyst,65927,3,No,0
+47,Engineering,Intern,95414,2,Yes,1
+31,HR,Junior Executive,77535,3,No,0
+47,Marketing,Senior Executive,62946,1,No,0
+55,Operations,Analyst,76561,2,Yes,1
+28,Operations,Senior Executive,30377,3,Yes,1
+25,Marketing,Senior Executive,73592,2,Yes,1
+32,Operations,Senior Executive,27347,2,No,1
+50,Finance,Junior Executive,53776,1,Yes,1
+57,Sales,Manager,23783,2,No,1
+46,Engineering,Analyst,75798,2,Yes,1
+42,Sales,Manager,24298,1,Yes,1
+57,Engineering,Manager,90204,1,No,0
+31,Engineering,Manager,75161,1,Yes,1
+58,Sales,Senior Executive,80652,2,Yes,1
+30,Marketing,Intern,54484,2,Yes,1
+45,Engineering,Senior Executive,40922,2,Yes,1
+56,Sales,Senior Executive,54028,1,Yes,1
+56,Engineering,Manager,40316,3,No,0
+57,HR,Senior Executive,96996,2,No,0
+39,Marketing,Manager,36968,3,Yes,1
+53,Finance,Intern,50266,1,No,0
+45,Engineering,Analyst,44000,2,No,0
+44,HR,Manager,34011,3,No,0
+53,Finance,Intern,22866,2,Yes,1
+58,Finance,Analyst,25898,2,Yes,1
+33,Engineering,Junior Executive,38395,2,Yes,1
+34,Sales,Manager,59019,3,No,0
+44,Engineering,Manager,24006,1,No,1
+46,HR,Junior Executive,54393,2,Yes,1
+56,Finance,Junior Executive,30956,1,Yes,1
+51,Engineering,Manager,70042,1,No,0
+38,Sales,Junior Executive,26078,3,No,0
+41,Engineering,Senior Executive,49631,3,Yes,0
+46,Marketing,Analyst,82901,1,No,0
+43,Sales,Analyst,89497,2,No,0
+34,HR,Analyst,61574,3,No,0
+40,Finance,Senior Executive,51417,2,No,0
+57,Engineering,Junior Executive,85006,2,No,0
+33,Sales,Intern,59454,2,No,0
+40,Marketing,Junior Executive,21587,1,No,1
+33,Sales,Manager,74710,2,Yes,1
+30,Operations,Analyst,95886,1,Yes,1
+28,Marketing,Junior Executive,38816,1,No,1
+49,HR,Intern,49432,2,No,0
+35,Finance,Manager,68617,2,No,0
+52,HR,Senior Executive,92373,2,Yes,1
+40,Engineering,Senior Executive,54217,2,Yes,1
+37,Sales,Intern,40884,1,No,0
+26,Operations,Manager,25454,2,Yes,1
+56,Marketing,Analyst,94960,2,No,0
+33,Marketing,Junior Executive,63618,1,No,0
+46,Sales,Manager,82671,3,No,0
+42,Operations,Senior Executive,67111,3,No,0
+57,Sales,Intern,59613,1,No,0
+44,Engineering,Intern,79993,3,No,0
+37,HR,Junior Executive,28848,1,No,1
+35,Marketing,Intern,98672,2,Yes,1
+52,Engineering,Intern,86125,2,No,0
+26,HR,Manager,81602,3,Yes,0
+56,Engineering,Analyst,92045,2,No,0
+44,Operations,Junior Executive,62222,3,No,0
+50,Marketing,Manager,69223,3,Yes,0
+32,Sales,Analyst,85333,2,Yes,1
+39,Sales,Manager,72732,2,No,0
+33,HR,Manager,69420,3,Yes,0
+30,Finance,Intern,95504,2,No,0
+31,Operations,Analyst,22462,1,No,1
+38,HR,Junior Executive,29460,2,Yes,1
+59,Finance,Junior Executive,29275,2,Yes,1
+28,Engineering,Analyst,33269,1,Yes,1
+34,Operations,Intern,85942,2,Yes,1
+30,Engineering,Senior Executive,92920,2,No,0
+48,Marketing,Manager,42553,3,Yes,0
+23,Operations,Intern,44366,2,Yes,1
+26,Finance,Analyst,64036,2,Yes,1
+50,Marketing,Manager,37369,1,Yes,1
+58,Sales,Junior Executive,31795,3,Yes,1
+59,Finance,Senior Executive,90021,3,No,0
+40,HR,Junior Executive,88154,3,No,0
+29,Sales,Analyst,50143,2,Yes,1
+22,Sales,Manager,49425,3,Yes,0
+43,HR,Analyst,95139,1,No,0
+38,Operations,Manager,25368,3,Yes,1
+28,Sales,Intern,24621,1,No,1
+46,Finance,Senior Executive,78829,3,No,0
+25,Marketing,Intern,80294,3,Yes,0
+57,Sales,Intern,34719,1,No,1
+27,Finance,Analyst,49227,3,Yes,0
+52,Engineering,Senior Executive,27566,3,Yes,1
+40,Finance,Manager,32306,3,No,0
+48,Marketing,Manager,73822,2,No,0
+31,Finance,Junior Executive,44042,1,Yes,1
+47,HR,Manager,35086,3,No,0
+40,Marketing,Analyst,37387,1,Yes,1
+24,Operations,Intern,47042,1,No,0
+34,Engineering,Intern,71618,1,No,0
+49,HR,Intern,38323,3,Yes,1
+41,Operations,Senior Executive,38019,3,Yes,1
+49,Finance,Manager,95426,1,Yes,1
+29,Marketing,Analyst,60863,2,No,0
+22,Engineering,Senior Executive,30283,1,Yes,1
+24,HR,Junior Executive,38279,2,Yes,1
+34,Operations,Analyst,66999,1,No,0
+49,Operations,Analyst,82780,1,No,0
+46,Engineering,Analyst,42908,1,Yes,1
+54,Finance,Intern,81584,3,Yes,0
+59,Engineering,Analyst,70225,2,Yes,1
+27,Operations,Manager,57952,2,Yes,1
+53,Sales,Analyst,57663,1,No,0
+42,HR,Intern,81381,3,No,0
+37,Engineering,Analyst,67929,3,Yes,0
+42,Operations,Junior Executive,29343,2,Yes,1
+32,Finance,Junior Executive,96173,3,Yes,0
+58,Operations,Intern,59791,2,No,0
+57,Finance,Manager,49134,2,Yes,1
+56,Engineering,Manager,67101,2,Yes,1
+40,Finance,Senior Executive,89443,3,No,0
+41,Marketing,Intern,77530,2,No,0
+39,Marketing,Analyst,66799,2,Yes,1
+35,Marketing,Intern,24827,1,Yes,1
+36,Sales,Senior Executive,82653,2,No,0
+52,Engineering,Intern,33699,2,Yes,1
+22,Operations,Intern,25313,1,Yes,1
+24,Operations,Senior Executive,33598,1,No,1
+37,Sales,Manager,48807,3,No,0
+44,Finance,Analyst,90423,2,No,0
+32,Sales,Senior Executive,89390,3,Yes,0
+33,Finance,Junior Executive,65226,3,No,0
+31,Finance,Manager,79550,1,No,0
+53,HR,Junior Executive,23558,3,Yes,1
+37,Operations,Manager,95308,2,Yes,1
+29,Marketing,Analyst,70113,1,No,0
+59,Finance,Analyst,72999,2,No,0
+33,HR,Intern,75878,2,Yes,1
+45,Operations,Junior Executive,56343,1,Yes,1
+49,Marketing,Manager,78219,2,No,0
+29,Finance,Analyst,55186,1,No,0
+49,Finance,Senior Executive,56966,2,Yes,1
+57,Sales,Analyst,53769,1,No,0
+47,Sales,Senior Executive,73218,3,Yes,0
+29,Operations,Manager,39229,2,No,1
+49,Marketing,Analyst,95209,1,Yes,1
+49,Finance,Analyst,47877,2,Yes,1
+58,Operations,Manager,78001,2,No,0
+57,Operations,Analyst,58084,2,No,0
+48,Engineering,Senior Executive,36806,1,Yes,1
+38,Sales,Analyst,57034,3,No,0
+30,Marketing,Junior Executive,60317,3,No,0
+54,Finance,Intern,75468,3,No,0
+41,Operations,Senior Executive,39094,1,Yes,1
+34,Finance,Junior Executive,77796,3,No,0
+49,Engineering,Manager,30589,1,No,1
+50,Marketing,Senior Executive,77221,2,Yes,1
+34,Operations,Intern,21657,2,No,1
+56,Finance,Intern,59531,3,No,0
+27,Sales,Manager,72227,1,Yes,1
+39,Engineering,Manager,23164,2,Yes,1
+26,Marketing,Senior Executive,61247,1,No,0
+46,Engineering,Analyst,39601,1,No,1
+23,Sales,Manager,70599,2,Yes,1
+31,Marketing,Analyst,91545,1,Yes,1
+51,Engineering,Junior Executive,24552,2,No,1
+26,HR,Intern,29417,2,No,1
+54,Sales,Analyst,78579,2,No,0
+22,Sales,Intern,88207,1,Yes,1
+39,Sales,Analyst,92055,2,No,0
+53,HR,Junior Executive,98270,1,Yes,1
+32,HR,Manager,23722,2,Yes,1
+42,Finance,Junior Executive,90442,2,Yes,1
+47,Operations,Manager,60031,3,No,0
+46,Engineering,Manager,99235,3,No,0
+43,Finance,Intern,41438,3,No,0
+48,Engineering,Junior Executive,78819,1,Yes,1
+34,Operations,Analyst,63856,1,No,0
+54,HR,Junior Executive,53576,2,Yes,1
+55,Operations,Intern,61938,2,Yes,1
+56,HR,Manager,69028,2,Yes,1
+22,Operations,Intern,79807,2,Yes,1
+42,Finance,Senior Executive,69877,1,Yes,1
+27,Marketing,Senior Executive,63461,2,Yes,1
+49,Finance,Analyst,60469,2,No,0
+38,Engineering,Intern,40435,3,Yes,0
+26,Finance,Analyst,34191,2,No,1
+52,Sales,Analyst,47386,2,Yes,1
+26,Engineering,Senior Executive,51721,2,No,0
+59,Operations,Analyst,74786,1,No,0
+24,Engineering,Senior Executive,33704,3,No,0
+44,Marketing,Manager,76635,2,No,0
+58,HR,Intern,22123,2,Yes,1
+58,Operations,Analyst,82993,3,Yes,0
+31,Engineering,Senior Executive,45416,2,Yes,1
+31,Operations,Junior Executive,21814,1,Yes,1
+40,Operations,Analyst,98537,2,No,0
+38,Operations,Manager,70258,1,No,0
+42,HR,Manager,36508,1,No,1
+35,Finance,Junior Executive,98916,2,Yes,1
+30,Operations,Senior Executive,55699,3,No,0
+22,Sales,Analyst,66335,1,Yes,1
+34,Marketing,Senior Executive,66806,3,No,0
+25,HR,Manager,97853,2,No,0
+22,Engineering,Senior Executive,83768,1,No,0
+53,HR,Manager,55739,2,No,0
+55,Engineering,Senior Executive,54785,3,No,0
+49,HR,Junior Executive,51980,2,Yes,1
+52,Engineering,Intern,21609,2,No,1
+29,Operations,Junior Executive,86253,1,Yes,1
+47,Finance,Junior Executive,48141,2,Yes,1
+55,Engineering,Intern,50009,2,Yes,1
+24,Engineering,Intern,26782,2,Yes,1
+33,Sales,Analyst,45933,1,Yes,1
+22,Engineering,Analyst,97154,3,Yes,0
+26,Sales,Junior Executive,28307,3,Yes,1
+51,Marketing,Junior Executive,95874,2,Yes,1
+51,Operations,Manager,58346,1,No,0
+38,Sales,Manager,70772,2,No,0
+44,Finance,Analyst,92084,3,Yes,0
+36,Operations,Analyst,60149,1,Yes,1
+58,Sales,Manager,47526,3,Yes,0
+42,Operations,Manager,88477,3,No,0
+35,Operations,Senior Executive,25695,1,No,1
+23,Operations,Senior Executive,59169,1,Yes,1
+32,Marketing,Manager,67947,2,Yes,1
+59,Finance,Senior Executive,67224,2,No,0
+55,HR,Intern,65865,3,No,0
+59,HR,Analyst,45553,1,Yes,1
+55,Sales,Analyst,80410,1,Yes,1
+39,Operations,Manager,44816,2,Yes,1
+51,Sales,Junior Executive,75026,3,Yes,0
+36,Marketing,Manager,70705,3,No,0
+48,Marketing,Senior Executive,81922,2,No,0
+55,Engineering,Junior Executive,93914,1,Yes,1
+59,Marketing,Senior Executive,21881,2,Yes,1
+54,Engineering,Intern,59567,2,Yes,1
+45,Finance,Senior Executive,67365,2,No,0
+36,Sales,Intern,99211,2,Yes,1
+51,Finance,Intern,90122,1,Yes,1
+38,Marketing,Senior Executive,45006,2,Yes,1
+26,Finance,Senior Executive,61198,1,No,0
+50,Finance,Intern,42831,2,Yes,1
+25,Finance,Junior Executive,36459,3,No,0
+31,Marketing,Intern,52443,1,Yes,1
+38,Operations,Analyst,62316,3,Yes,0
+31,Finance,Intern,84486,2,Yes,1
+38,Engineering,Junior Executive,25877,2,No,1
+41,Marketing,Analyst,59553,2,Yes,1
+45,Finance,Manager,24922,1,Yes,1
+26,Operations,Manager,24686,3,No,0
+55,Marketing,Junior Executive,52766,1,No,0
+27,HR,Intern,99943,1,No,0
+23,Operations,Senior Executive,52006,2,Yes,1
+34,Engineering,Junior Executive,51422,3,No,0
+32,Finance,Analyst,32205,2,Yes,1
+44,HR,Analyst,43527,1,No,0
+37,HR,Manager,38443,2,No,1
+52,Marketing,Analyst,36524,3,No,0
+32,HR,Junior Executive,48202,2,Yes,1
+37,Engineering,Analyst,85552,3,Yes,0
+29,Engineering,Junior Executive,66142,3,Yes,0
+25,Sales,Senior Executive,81692,2,Yes,1
+25,Engineering,Manager,40855,1,Yes,1
+46,Operations,Analyst,80372,2,Yes,1
+24,HR,Junior Executive,45095,1,Yes,1
+53,Engineering,Intern,58724,1,Yes,1
+24,Marketing,Manager,69241,2,Yes,1
+48,Sales,Senior Executive,72003,1,No,0
+50,HR,Junior Executive,88379,1,No,0
+53,Sales,Senior Executive,35972,2,Yes,1
+40,HR,Senior Executive,42927,2,Yes,1
+42,Marketing,Analyst,86630,2,Yes,1
+26,Sales,Analyst,72347,1,Yes,1
+39,Finance,Junior Executive,89518,3,No,0
+49,Operations,Intern,65283,1,No,0
+43,Operations,Junior Executive,32205,3,Yes,1
+42,HR,Intern,32748,2,No,1
+27,Finance,Senior Executive,41097,3,No,0
+22,Sales,Manager,23092,2,Yes,1
+26,Finance,Junior Executive,73311,2,Yes,1
+33,Finance,Junior Executive,42692,3,Yes,0
+47,Sales,Intern,43862,2,Yes,1
+55,Marketing,Senior Executive,99507,3,No,0
+35,Finance,Senior Executive,90469,2,Yes,1
+47,Finance,Intern,24926,1,No,1
+48,Marketing,Senior Executive,23969,1,Yes,1
+30,Finance,Analyst,55733,2,No,0
+47,Finance,Manager,89855,2,Yes,1
+43,Finance,Junior Executive,61743,3,Yes,0
+51,Operations,Manager,59876,1,No,0
+38,Engineering,Junior Executive,40323,3,No,0
+47,Marketing,Analyst,36428,2,No,1
+57,Finance,Senior Executive,54578,2,Yes,1
+22,Operations,Intern,84140,3,No,0
+29,Marketing,Analyst,26364,2,No,1
+56,HR,Manager,55349,1,No,0
+36,HR,Intern,20691,3,No,0
+43,Finance,Senior Executive,86467,1,No,0
+35,Operations,Analyst,65896,1,No,0
+47,Operations,Intern,77062,1,No,0
+49,Marketing,Analyst,99762,3,No,0
+44,Marketing,Analyst,33861,2,No,1
+35,Operations,Senior Executive,83928,1,Yes,1
+45,Marketing,Junior Executive,61347,1,Yes,1
+23,Operations,Intern,23121,1,No,1
+47,Engineering,Senior Executive,48164,2,Yes,1
+35,Operations,Analyst,45491,2,Yes,1
+28,HR,Senior Executive,79222,3,No,0
+24,Marketing,Junior Executive,43165,2,No,0
+44,Operations,Intern,23748,3,No,0
+39,Operations,Junior Executive,46553,3,No,0
+59,Marketing,Manager,80380,3,No,0
+56,Engineering,Intern,64331,3,No,0
+36,Engineering,Junior Executive,59560,3,Yes,0
+46,Marketing,Analyst,73865,1,No,0
+58,Sales,Intern,66686,2,Yes,1
+49,Marketing,Intern,95910,1,No,0
+31,Marketing,Senior Executive,24675,3,No,0
+38,Engineering,Analyst,86706,2,Yes,1
+43,Engineering,Manager,97986,1,No,0
+47,Marketing,Junior Executive,96216,1,No,0
+46,Marketing,Senior Executive,30068,3,Yes,1
+38,Marketing,Junior Executive,74460,1,No,0
+34,Engineering,Manager,66418,1,Yes,1
+41,Marketing,Manager,46206,1,No,0
+46,Marketing,Intern,20287,1,No,1
+25,Finance,Manager,42337,1,Yes,1
+31,Sales,Junior Executive,40666,3,No,0
+24,HR,Analyst,21161,3,Yes,1
+39,Sales,Analyst,58751,1,Yes,1
+57,Finance,Intern,34758,3,Yes,1
+43,HR,Junior Executive,85780,3,No,0
+55,Marketing,Junior Executive,23178,2,No,1
+29,Finance,Manager,51831,1,Yes,1
+40,Marketing,Junior Executive,22176,3,No,0
+58,Engineering,Senior Executive,53654,3,No,0
+27,Operations,Manager,46627,1,No,0
+47,Finance,Senior Executive,72550,2,Yes,1
+55,Engineering,Intern,64910,1,No,0
+27,Finance,Analyst,78251,2,Yes,1
+58,Finance,Intern,55422,1,No,0
+54,Engineering,Analyst,31984,1,No,1
+43,HR,Intern,81386,1,Yes,1
+42,Sales,Junior Executive,27135,1,No,1
+27,Marketing,Senior Executive,20320,2,Yes,1
+27,Finance,Analyst,41684,2,No,0
+25,Marketing,Manager,75913,3,Yes,0
+51,Operations,Senior Executive,41889,1,No,0
+32,Engineering,Manager,68899,2,No,0
+51,Marketing,Senior Executive,30770,2,No,1
+52,Engineering,Senior Executive,59321,2,Yes,1
+45,Marketing,Intern,61777,1,Yes,1
+30,Sales,Analyst,66250,3,Yes,0
+24,Sales,Analyst,93034,2,No,0
+52,Sales,Senior Executive,60130,1,Yes,1
+58,Sales,Junior Executive,69346,2,Yes,1
+57,Sales,Junior Executive,22537,2,Yes,1
+45,Sales,Manager,35216,3,Yes,1
+52,Engineering,Manager,23009,2,Yes,1
+27,Finance,Intern,49327,2,Yes,1
+23,Marketing,Senior Executive,34209,1,Yes,1
+41,Sales,Manager,68443,1,Yes,1
+49,Engineering,Manager,35029,3,Yes,1
+32,Engineering,Senior Executive,87613,1,Yes,1
+25,Engineering,Intern,99443,1,No,0
+36,Finance,Manager,76997,3,No,0
+27,Marketing,Intern,82559,2,Yes,1
+51,Finance,Analyst,84892,3,No,0
+59,HR,Intern,90409,1,No,0
+23,Engineering,Junior Executive,28635,3,Yes,1
+36,HR,Junior Executive,53065,2,Yes,1
+32,Operations,Intern,53783,3,Yes,0
+29,Sales,Junior Executive,54152,1,No,0
+47,Sales,Analyst,78741,1,Yes,1
+26,Finance,Senior Executive,71502,3,No,0
+27,Marketing,Junior Executive,49092,2,Yes,1
+47,HR,Junior Executive,37653,3,No,0
+25,Marketing,Intern,60469,2,No,0
+40,Finance,Analyst,79754,2,Yes,1
+41,Sales,Senior Executive,49978,3,Yes,0
+54,Marketing,Intern,63169,2,No,0
+41,Marketing,Intern,68287,1,No,0
+33,Sales,Analyst,74745,3,Yes,0
+22,HR,Senior Executive,25543,2,Yes,1
+47,Sales,Analyst,76392,1,No,0
+35,Marketing,Senior Executive,41067,3,Yes,0
+59,HR,Analyst,71033,1,No,0
+58,HR,Intern,65256,1,Yes,1
+32,Sales,Intern,89345,1,Yes,1
+57,Marketing,Manager,42191,2,Yes,1
+34,Finance,Junior Executive,92742,3,No,0
+24,Marketing,Analyst,48992,3,Yes,0
+54,Engineering,Manager,68803,2,No,0
+27,Operations,Junior Executive,83477,3,Yes,0
+31,Finance,Analyst,33210,1,No,1
+26,HR,Senior Executive,46270,3,No,0
+44,Finance,Junior Executive,82008,2,Yes,1
+31,HR,Intern,25197,1,No,1
+23,HR,Manager,27452,2,No,1
+34,Finance,Junior Executive,61486,1,No,0
+23,HR,Junior Executive,34859,1,No,1
+41,HR,Intern,47236,3,Yes,0
+22,Engineering,Analyst,51899,1,Yes,1
+58,Marketing,Senior Executive,52083,2,Yes,1
+30,Marketing,Intern,87708,3,No,0
+38,Operations,Senior Executive,36663,2,No,1
+30,Operations,Analyst,39053,1,Yes,1
+32,Engineering,Junior Executive,31085,2,Yes,1
+36,Operations,Senior Executive,50564,2,No,0
+45,Finance,Manager,79095,1,Yes,1
+59,Sales,Manager,89517,3,Yes,0
+56,Sales,Intern,41153,2,No,0
+51,Sales,Analyst,25247,1,Yes,1
+52,Engineering,Intern,30553,3,No,0
+26,Engineering,Intern,40811,3,Yes,0
+35,HR,Intern,26135,3,No,0
+32,Sales,Manager,25573,2,No,1
+30,Finance,Manager,99267,2,No,0
+55,Operations,Intern,27189,2,No,1
+33,Finance,Manager,63646,3,No,0
+56,Operations,Analyst,96623,2,Yes,1
+56,Sales,Intern,73687,1,Yes,1
+22,Sales,Manager,88312,2,Yes,1
+43,Sales,Senior Executive,47564,2,No,0
+50,Engineering,Intern,48835,3,Yes,0
+29,Operations,Intern,81587,2,No,0
+32,Engineering,Analyst,27697,1,No,1
+58,Engineering,Junior Executive,93922,3,Yes,0
+35,Marketing,Junior Executive,37046,1,No,1
+51,Finance,Analyst,77823,3,Yes,0
+56,Finance,Analyst,93580,3,No,0
+42,HR,Analyst,73370,2,No,0
+58,Engineering,Junior Executive,29615,1,Yes,1
+26,Operations,Analyst,25060,3,No,0
+40,Marketing,Manager,96436,2,Yes,1
+35,Marketing,Intern,80519,3,No,0
+47,Finance,Intern,91117,3,Yes,0
+25,Engineering,Senior Executive,81158,3,No,0
+46,HR,Senior Executive,54782,3,Yes,0
+46,Engineering,Intern,98533,3,Yes,0
+39,Sales,Manager,78255,3,No,0
+29,Engineering,Junior Executive,92684,2,Yes,1
+35,Sales,Junior Executive,76918,3,No,0
+53,Sales,Manager,99558,1,No,0
+59,HR,Junior Executive,45256,2,Yes,1
+54,Operations,Analyst,50005,1,Yes,1
+44,Finance,Intern,26638,3,Yes,1
+36,Engineering,Intern,57419,1,Yes,1
+54,Sales,Manager,53377,3,Yes,0
+46,Engineering,Junior Executive,63116,3,No,0
+38,Operations,Senior Executive,56634,2,Yes,1
+54,Finance,Senior Executive,43382,2,No,0
+23,Operations,Junior Executive,76063,3,Yes,0
+35,Finance,Senior Executive,42394,2,Yes,1
+27,Marketing,Manager,87789,1,Yes,1
+27,Finance,Manager,20864,2,No,1
+24,HR,Junior Executive,60222,2,Yes,1
+28,Operations,Senior Executive,33666,1,No,1
+29,Sales,Manager,40955,2,No,0
+36,Marketing,Manager,89590,3,No,0
+50,HR,Analyst,86471,1,Yes,1
+54,Engineering,Analyst,63298,3,No,0
+51,Operations,Manager,83108,1,Yes,1
+48,Sales,Junior Executive,68924,3,No,0
+57,Finance,Intern,36709,3,Yes,1
+50,Sales,Intern,29726,2,No,1
+59,Engineering,Manager,80824,3,Yes,0
+54,Marketing,Manager,60542,2,Yes,1
+58,Marketing,Manager,40245,1,Yes,1
+48,Operations,Junior Executive,54753,3,No,0
+54,Marketing,Analyst,99788,3,No,0
+25,Operations,Manager,41316,1,Yes,1
+43,Operations,Manager,35960,1,No,1
+23,Operations,Senior Executive,50791,3,No,0
+31,Finance,Junior Executive,45216,1,No,0
+26,HR,Manager,52467,2,No,0
+31,Operations,Senior Executive,84427,1,No,0
+54,Operations,Intern,82047,1,No,0
+59,HR,Manager,93290,3,No,0
+34,Sales,Manager,67014,2,Yes,1
+52,Operations,Senior Executive,24078,1,Yes,1
+57,Finance,Junior Executive,98389,2,No,0
+45,Marketing,Manager,70519,2,Yes,1
+36,Marketing,Intern,24042,2,Yes,1
+50,Engineering,Manager,69052,3,Yes,0
+29,Engineering,Intern,34389,1,No,1
+26,Marketing,Analyst,88111,3,No,0
+50,Marketing,Analyst,70733,1,No,0
+25,Finance,Intern,54754,1,No,0
+33,HR,Junior Executive,38624,3,No,0
+23,Engineering,Manager,46681,2,Yes,1
+48,HR,Manager,44704,2,No,0
+52,Finance,Analyst,27493,1,Yes,1
+57,Marketing,Intern,89639,3,No,0
+57,Operations,Manager,74383,2,Yes,1
+47,HR,Manager,22994,2,No,1
+48,Marketing,Junior Executive,89280,1,No,0
+26,Marketing,Senior Executive,67234,1,No,0
+41,Sales,Analyst,67291,3,No,0
+32,HR,Analyst,25594,1,No,1
+31,Operations,Senior Executive,27371,2,No,1
+59,HR,Manager,67315,2,Yes,1
+27,Marketing,Junior Executive,99526,2,No,0
+29,Operations,Junior Executive,36626,2,Yes,1
+44,Finance,Analyst,27130,3,No,0
+47,Sales,Junior Executive,26828,3,Yes,1
+33,Marketing,Senior Executive,77514,1,Yes,1
+47,Engineering,Manager,72664,1,Yes,1
+34,Engineering,Senior Executive,37883,1,Yes,1
+39,Sales,Intern,63059,3,Yes,0
+46,Finance,Analyst,62932,2,Yes,1
+54,Marketing,Junior Executive,81269,1,No,0
+33,HR,Intern,95986,2,Yes,1
+57,Sales,Junior Executive,22035,1,No,1
+25,Finance,Manager,60745,1,No,0
+26,HR,Manager,37241,1,Yes,1
+58,Engineering,Manager,72975,1,Yes,1
+29,Engineering,Junior Executive,43154,1,No,0
+49,HR,Intern,45625,2,Yes,1
+52,Sales,Manager,64950,1,Yes,1
+30,Engineering,Intern,76396,2,Yes,1
+50,Marketing,Junior Executive,33331,3,Yes,1
+35,Operations,Intern,83927,1,Yes,1
+43,HR,Junior Executive,83014,2,Yes,1
+32,HR,Junior Executive,59346,3,Yes,0
+44,Engineering,Analyst,90411,3,No,0
+22,Sales,Junior Executive,74478,3,Yes,0
+58,Marketing,Junior Executive,32254,2,No,1
+42,Sales,Senior Executive,75734,1,No,0
+47,Finance,Manager,48621,1,No,0
+57,Finance,Analyst,96441,2,No,0
+44,Operations,Analyst,66121,1,Yes,1
+22,Engineering,Analyst,80197,2,No,0
+36,Engineering,Senior Executive,62431,1,No,0
+42,Engineering,Junior Executive,24837,3,No,0
+30,Operations,Manager,91232,1,No,0
+30,Finance,Intern,68994,2,No,0
+31,Sales,Junior Executive,99079,2,Yes,1
+47,Operations,Senior Executive,32615,3,Yes,1
+56,Operations,Junior Executive,21466,2,No,1
+46,Sales,Junior Executive,50771,1,Yes,1
+47,Engineering,Senior Executive,85911,1,Yes,1
+32,Marketing,Analyst,40746,3,No,0
+59,Sales,Analyst,80739,2,No,0
+23,Finance,Manager,93369,3,No,0
+28,HR,Manager,21893,1,Yes,1
+39,HR,Analyst,50573,3,No,0
+48,Operations,Intern,60874,2,Yes,1
+55,HR,Junior Executive,97362,3,Yes,0
+48,Marketing,Intern,53367,2,Yes,1
+38,Engineering,Junior Executive,41199,2,No,0
+45,Finance,Analyst,94328,1,Yes,1
+46,Marketing,Manager,77724,1,No,0
+28,Finance,Manager,56405,1,No,0
+27,Finance,Intern,35989,2,No,1
+45,Engineering,Manager,48931,3,No,0
+54,Operations,Analyst,29290,2,No,1
+50,HR,Intern,58367,1,Yes,1
+43,Engineering,Junior Executive,99878,1,Yes,1
+47,Marketing,Manager,99481,3,Yes,0
+49,Operations,Senior Executive,96298,1,Yes,1
+42,Marketing,Manager,50133,1,Yes,1
+28,Operations,Junior Executive,47052,1,No,0
+38,Marketing,Intern,60475,3,No,0
+41,Engineering,Junior Executive,77656,2,Yes,1
+41,Operations,Senior Executive,24633,1,Yes,1
+43,Operations,Analyst,37304,3,Yes,1
+49,Finance,Manager,66546,1,No,0
+28,Finance,Intern,27008,3,No,0
+22,Sales,Analyst,68291,1,No,0
+53,Marketing,Junior Executive,47405,3,Yes,0
+34,Finance,Intern,56386,1,Yes,1
+51,Sales,Analyst,40827,2,Yes,1
+44,Finance,Intern,53040,1,Yes,1
+40,Marketing,Senior Executive,80354,3,No,0
+53,Operations,Senior Executive,98543,1,Yes,1
+51,HR,Manager,38157,2,Yes,1
+50,Marketing,Manager,55315,1,Yes,1
+50,Engineering,Senior Executive,55932,3,No,0
+51,Finance,Intern,41164,3,No,0
+37,Finance,Senior Executive,34414,2,Yes,1
+40,Operations,Manager,34327,3,No,0
+39,Engineering,Senior Executive,20946,1,No,1
+22,Operations,Senior Executive,34693,1,No,1
+35,Engineering,Intern,47241,1,No,0
+23,HR,Analyst,35540,3,No,0
+49,Finance,Manager,92255,1,Yes,1
+51,Finance,Intern,84757,1,Yes,1
+59,HR,Senior Executive,61203,1,Yes,1
+25,Sales,Senior Executive,45081,2,No,0
+22,Operations,Analyst,81861,3,No,0
+29,HR,Manager,31350,3,No,0
+50,Operations,Manager,75512,3,No,0
+24,Marketing,Junior Executive,76809,2,Yes,1
+53,Finance,Manager,62832,3,Yes,0
+31,Operations,Analyst,48369,2,Yes,1
+31,Engineering,Junior Executive,51728,2,Yes,1
+40,Operations,Junior Executive,37576,3,Yes,1
+55,Marketing,Senior Executive,49001,1,Yes,1
+54,Finance,Senior Executive,20390,1,No,1
+44,HR,Manager,65436,3,No,0
+49,Marketing,Junior Executive,31569,3,Yes,1
+53,Finance,Senior Executive,33029,2,No,1
+28,Operations,Analyst,42490,3,Yes,0
+50,Sales,Senior Executive,65875,2,Yes,1
+29,Sales,Senior Executive,25867,3,No,0
+22,Engineering,Junior Executive,29121,1,Yes,1
+24,Finance,Junior Executive,21539,1,Yes,1
+45,Sales,Intern,37027,3,Yes,1
+44,HR,Analyst,94229,2,No,0
+29,Finance,Junior Executive,28921,1,No,1
+58,HR,Manager,70435,2,No,0
+24,HR,Analyst,30310,3,No,0
+54,Sales,Analyst,83965,3,Yes,0
+49,Finance,Junior Executive,89922,1,No,0
+29,Operations,Analyst,32242,3,No,0
+55,Marketing,Junior Executive,28947,1,No,1
+56,Sales,Senior Executive,91466,2,Yes,1
+53,Sales,Intern,81816,1,No,0
+45,Operations,Senior Executive,68785,1,No,0
+35,Finance,Junior Executive,20507,2,Yes,1
+53,Finance,Junior Executive,86972,1,Yes,1
+37,HR,Senior Executive,47151,1,Yes,1
+25,Operations,Manager,31618,3,Yes,1
+58,Operations,Manager,94286,2,No,0
+42,Finance,Manager,36122,1,Yes,1
+35,HR,Junior Executive,27354,2,No,1
+52,Sales,Analyst,50979,2,No,0
+39,Engineering,Junior Executive,99376,1,No,0
+28,Marketing,Analyst,72774,3,No,0
+31,Sales,Senior Executive,25037,2,No,1
+28,Finance,Intern,48633,1,Yes,1
+54,Marketing,Analyst,44495,2,No,0
+44,Engineering,Manager,84550,3,No,0
+42,Engineering,Junior Executive,56483,3,No,0
+40,HR,Senior Executive,93373,3,Yes,0
+40,Marketing,Manager,54069,1,No,0
+57,HR,Senior Executive,27370,1,No,1
+50,Sales,Intern,91947,3,Yes,0
+39,Operations,Junior Executive,59133,1,No,0
+23,Operations,Junior Executive,20692,3,No,0
+22,Operations,Intern,48926,1,Yes,1
+26,Marketing,Junior Executive,93984,3,No,0
+41,Operations,Analyst,63390,2,No,0
+32,Sales,Senior Executive,69593,3,No,0
+23,HR,Manager,95609,3,No,0
+24,Marketing,Intern,25209,1,No,1
+44,HR,Analyst,26533,1,Yes,1
+33,Marketing,Manager,27211,1,Yes,1
+41,HR,Manager,29927,1,Yes,1
+26,Engineering,Intern,97463,1,No,0
+58,HR,Analyst,44594,1,No,0
+59,Operations,Manager,94852,2,No,0
+51,Engineering,Manager,97713,3,Yes,0
+30,HR,Analyst,96382,3,No,0
+55,Marketing,Junior Executive,27933,3,No,0
+56,Marketing,Manager,60696,2,No,0
+43,Marketing,Senior Executive,85449,3,Yes,0
+45,Finance,Analyst,87616,2,Yes,1
+38,Sales,Manager,26089,2,No,1
+31,Marketing,Intern,76548,2,No,0
+51,Engineering,Senior Executive,46123,3,No,0
+44,Marketing,Manager,27797,2,Yes,1
+53,Finance,Senior Executive,70013,3,Yes,0
+38,Operations,Senior Executive,28346,3,Yes,1
+38,Engineering,Junior Executive,53672,1,No,0
+35,Finance,Senior Executive,37653,1,Yes,1
+30,Operations,Junior Executive,69556,2,No,0
+23,Engineering,Analyst,46140,2,No,0
+46,HR,Junior Executive,21184,3,Yes,1
+30,Sales,Intern,54493,2,No,0
+43,Sales,Manager,64148,2,Yes,1
+25,Finance,Analyst,44846,3,No,0
+47,Operations,Analyst,42195,2,No,0
+50,Sales,Intern,25606,2,Yes,1
+55,Operations,Junior Executive,23956,3,No,0
+44,Operations,Manager,36555,3,No,0
+58,Finance,Junior Executive,38690,1,No,1
+32,Finance,Senior Executive,78502,3,No,0
+27,Finance,Junior Executive,68849,1,No,0
+39,Sales,Analyst,46347,2,No,0
+42,Finance,Manager,69056,3,No,0
+57,Sales,Junior Executive,83851,3,No,0
+59,Finance,Manager,90211,3,Yes,0
+55,Marketing,Manager,61850,2,Yes,1
+38,Operations,Senior Executive,98545,1,No,0
+58,Finance,Senior Executive,47843,2,No,0
+46,Engineering,Analyst,82320,2,Yes,1
+59,Operations,Intern,49793,3,No,0
+33,Operations,Manager,59516,1,Yes,1
+44,Finance,Intern,37857,2,Yes,1
+43,HR,Analyst,39627,3,Yes,1
+42,Finance,Manager,81822,2,No,0
+48,Operations,Manager,72248,2,No,0
+52,Engineering,Intern,75798,3,No,0
+27,Operations,Junior Executive,64116,3,Yes,0
+48,Engineering,Senior Executive,95318,1,Yes,1
+55,Sales,Junior Executive,48557,2,Yes,1
+33,Marketing,Intern,91334,3,No,0
+28,Operations,Senior Executive,95163,3,Yes,0
+31,Finance,Junior Executive,98002,1,Yes,1
+38,Sales,Senior Executive,62614,1,No,0
+47,Marketing,Manager,32720,3,Yes,1
+42,Finance,Junior Executive,77608,1,Yes,1
+49,HR,Senior Executive,92095,3,No,0
+23,Finance,Senior Executive,55892,2,No,0
+22,Engineering,Senior Executive,97242,1,Yes,1
+57,Engineering,Junior Executive,97606,2,No,0
+47,HR,Analyst,20924,2,Yes,1
+50,Sales,Junior Executive,71322,2,No,0
+42,Marketing,Intern,46478,3,Yes,0
+32,Finance,Junior Executive,91042,2,No,0
+32,Engineering,Senior Executive,66418,2,Yes,1
+57,Sales,Manager,82217,2,No,0
+56,HR,Junior Executive,93762,3,No,0
+55,Operations,Junior Executive,31781,2,No,1
+45,Engineering,Senior Executive,25515,2,No,1
+43,HR,Manager,56133,1,No,0
+26,Finance,Manager,96946,3,No,0
+54,Marketing,Intern,29095,2,No,1
+57,Engineering,Junior Executive,40470,1,Yes,1
+41,Engineering,Manager,63129,3,Yes,0
+40,Finance,Manager,28531,3,No,0
+56,Operations,Analyst,57038,3,No,0
+38,Sales,Analyst,62674,3,Yes,0
+55,Marketing,Manager,49831,3,Yes,0
+30,Engineering,Intern,77174,3,No,0
+47,Marketing,Manager,31279,2,Yes,1
+23,Engineering,Senior Executive,58220,2,Yes,1
+30,Marketing,Junior Executive,80610,2,No,0
+30,HR,Intern,72719,2,No,0
+38,Engineering,Senior Executive,73051,1,No,0
+22,Marketing,Intern,92013,2,Yes,1
+46,Sales,Senior Executive,76652,3,No,0
+46,HR,Junior Executive,85524,2,No,0
+56,HR,Junior Executive,26470,2,Yes,1
+24,Sales,Analyst,87598,3,No,0
+58,Marketing,Senior Executive,61798,2,Yes,1
+51,Finance,Analyst,73473,2,Yes,1
+59,Sales,Senior Executive,39880,2,Yes,1
+55,Marketing,Analyst,64439,1,Yes,1
+33,Sales,Junior Executive,34308,2,Yes,1
+40,Sales,Intern,55081,3,Yes,0
+58,Engineering,Analyst,95242,3,No,0
+38,Marketing,Senior Executive,70383,2,No,0
+31,Finance,Senior Executive,29837,2,No,1
+33,Engineering,Junior Executive,72151,2,Yes,1
+37,Sales,Senior Executive,56824,3,No,0
+45,Operations,Manager,53073,3,Yes,0
+40,Sales,Intern,46299,1,No,0
+29,Sales,Analyst,78861,1,Yes,1
+52,Marketing,Intern,50063,1,No,0
+42,Marketing,Junior Executive,89453,3,Yes,0
+38,Engineering,Analyst,88472,1,No,0
+44,Finance,Analyst,34506,2,Yes,1
+58,Engineering,Manager,99854,2,No,0
+37,HR,Junior Executive,46026,3,Yes,0
+27,Sales,Senior Executive,47672,1,No,0
+29,Operations,Manager,58417,2,No,0
+46,Sales,Manager,72413,3,No,0
+39,Sales,Intern,85066,1,Yes,1
+46,Engineering,Intern,79213,2,Yes,1
+33,Operations,Intern,70971,1,Yes,1
+36,Operations,Manager,47281,3,Yes,0
+47,Operations,Senior Executive,48091,1,Yes,1
+47,Engineering,Analyst,70494,3,No,0
+53,Sales,Intern,38610,1,Yes,1
+31,Engineering,Senior Executive,21079,2,No,1
+37,Marketing,Junior Executive,66751,3,No,0
+28,Marketing,Intern,75432,3,Yes,0
+38,Engineering,Analyst,50951,3,No,0
+44,Operations,Junior Executive,98291,1,Yes,1
+47,Sales,Junior Executive,79872,1,Yes,1
+42,Engineering,Analyst,27235,2,Yes,1
+43,Engineering,Intern,82712,3,No,0
+28,Engineering,Manager,41473,3,Yes,0
+35,HR,Analyst,87567,1,Yes,1
+36,Marketing,Analyst,99823,1,Yes,1
+28,Operations,Analyst,52230,2,No,0
+30,Finance,Junior Executive,88876,2,Yes,1
+29,Operations,Senior Executive,60644,1,No,0
+44,Finance,Manager,68664,3,No,0
+50,HR,Intern,65203,2,Yes,1
+39,Engineering,Intern,86677,1,No,0
+52,HR,Senior Executive,45425,1,No,0
+51,HR,Analyst,89806,3,Yes,0
+56,Sales,Manager,62814,1,Yes,1
+39,Marketing,Intern,90219,1,Yes,1
+38,Finance,Intern,69646,2,No,0
+35,Engineering,Analyst,59884,1,Yes,1
+52,Finance,Senior Executive,89322,1,No,0
+45,Operations,Manager,41650,2,No,0
+56,Finance,Senior Executive,29190,3,No,0
+55,Operations,Senior Executive,58196,3,No,0
+24,Marketing,Manager,59449,2,No,0
+58,Operations,Manager,59661,2,Yes,1
+47,Finance,Intern,49709,3,Yes,0
+44,Finance,Intern,95179,3,No,0
+36,Operations,Manager,29943,3,No,0
+25,HR,Junior Executive,63240,3,Yes,0
+50,Marketing,Intern,65760,3,Yes,0
+43,Sales,Junior Executive,41042,2,No,0
+46,Engineering,Manager,63894,1,No,0
+34,Finance,Intern,26869,3,Yes,1
+39,Engineering,Senior Executive,81078,3,Yes,0
+54,Sales,Manager,76759,1,No,0
+37,Engineering,Analyst,64306,1,Yes,1
+23,Sales,Junior Executive,75371,1,Yes,1
+56,Operations,Manager,40918,1,No,0
+55,HR,Manager,48379,1,No,0
+51,Finance,Intern,22962,1,No,1
+34,Sales,Intern,33851,2,Yes,1
+34,Engineering,Intern,65747,1,No,0
+39,Finance,Analyst,72349,1,Yes,1
+53,HR,Intern,90832,2,No,0
+53,Operations,Manager,76356,1,No,0
+56,Finance,Intern,34745,3,Yes,1
+50,Sales,Senior Executive,25730,3,Yes,1
+50,HR,Intern,33921,1,No,1
+37,Engineering,Analyst,91138,2,No,0
+31,HR,Senior Executive,39023,3,Yes,1
+51,HR,Manager,65349,2,No,0
+46,Marketing,Manager,61979,3,Yes,0
+41,HR,Junior Executive,42837,1,Yes,1
+26,HR,Senior Executive,34997,2,No,1
+22,Finance,Junior Executive,65039,2,Yes,1
+51,Engineering,Senior Executive,40923,2,Yes,1
+24,Finance,Senior Executive,28876,3,Yes,1
+35,Finance,Analyst,80973,3,No,0
+51,Sales,Junior Executive,22887,3,Yes,1
+25,Finance,Analyst,83723,1,No,0
+39,Marketing,Senior Executive,62422,3,No,0
+58,Marketing,Manager,71413,1,No,0
+46,Sales,Senior Executive,22841,2,Yes,1
+22,Operations,Analyst,48756,2,Yes,1
+36,Engineering,Junior Executive,91576,1,No,0
+30,Engineering,Junior Executive,30304,3,No,0
+36,Finance,Analyst,50341,1,Yes,1
+45,Finance,Junior Executive,24758,2,No,1
+25,Operations,Intern,37010,2,No,1
+33,Finance,Manager,80758,1,Yes,1
+58,Engineering,Manager,51658,3,No,0
+58,HR,Manager,69002,3,Yes,0
+27,Marketing,Junior Executive,21375,1,Yes,1
+45,HR,Junior Executive,42092,1,No,0
+32,HR,Senior Executive,20490,3,Yes,1
+34,Engineering,Senior Executive,23729,2,Yes,1
+55,HR,Manager,25974,1,Yes,1
+46,Operations,Intern,41398,3,No,0
+28,Sales,Senior Executive,54650,3,No,0
+25,Finance,Senior Executive,41292,2,No,0
+29,Sales,Junior Executive,23159,2,Yes,1
+41,Marketing,Intern,82766,2,Yes,1
+50,Finance,Manager,37065,2,No,1
+31,HR,Senior Executive,41638,2,No,0
+55,Marketing,Intern,21073,1,Yes,1
+47,Finance,Intern,66511,3,No,0
+24,Operations,Manager,49320,1,No,0
+27,Operations,Intern,89876,1,No,0
+26,Operations,Intern,54924,1,No,0
+26,Operations,Intern,60734,1,No,0
+44,HR,Senior Executive,88116,1,Yes,1
+30,Sales,Manager,60025,2,No,0
+56,Finance,Intern,22159,2,No,1
+41,HR,Intern,68940,3,Yes,0
+56,Operations,Senior Executive,99436,1,Yes,1
+39,Sales,Manager,96976,3,Yes,0
+38,Marketing,Junior Executive,34678,2,Yes,1
+45,Marketing,Senior Executive,81075,2,No,0
+24,Marketing,Manager,67204,2,No,0
+53,Operations,Intern,32021,1,No,1
+56,Marketing,Manager,26772,1,No,1
+59,Engineering,Manager,87163,2,Yes,1
+34,Finance,Manager,93755,3,Yes,0
+46,Finance,Junior Executive,43464,3,No,0
+30,Operations,Manager,71137,2,No,0
+25,Engineering,Junior Executive,50232,3,No,0
+35,HR,Intern,81497,2,No,0
+58,HR,Junior Executive,94024,3,Yes,0
+55,Marketing,Intern,71448,2,No,0
+32,Sales,Intern,20901,3,Yes,1
+24,HR,Junior Executive,22881,1,Yes,1
+49,Sales,Senior Executive,49863,2,Yes,1
+50,Finance,Analyst,25622,2,Yes,1
+30,Sales,Manager,21378,3,No,0
+24,Finance,Analyst,91186,2,No,0
+46,Engineering,Manager,65201,2,No,0
+55,Engineering,Manager,79251,2,No,0
+33,Operations,Intern,92572,1,Yes,1
+30,Operations,Manager,59255,1,Yes,1
+36,Marketing,Manager,83212,3,Yes,0
+46,HR,Junior Executive,70210,1,No,0
+26,Marketing,Analyst,42499,3,Yes,0
+32,Finance,Junior Executive,71628,1,Yes,1
+55,Marketing,Manager,81360,3,Yes,0
+45,Sales,Intern,24603,1,Yes,1
+36,Finance,Junior Executive,32632,1,No,1
+59,Operations,Junior Executive,50607,3,Yes,0
+29,Engineering,Senior Executive,85756,2,Yes,1
+26,Operations,Manager,66994,2,No,0
+47,HR,Intern,83382,1,No,0
+39,Finance,Junior Executive,90354,3,No,0
+27,Finance,Junior Executive,76344,2,Yes,1
+58,Sales,Intern,73775,3,Yes,0
+34,HR,Manager,27349,2,Yes,1
+49,Engineering,Senior Executive,91154,3,Yes,0
+26,Finance,Junior Executive,47464,1,No,0
+34,Finance,Senior Executive,62624,3,Yes,0
+38,Sales,Analyst,57344,2,Yes,1
+53,Marketing,Manager,44299,1,No,0
+50,Engineering,Analyst,67975,3,No,0
+24,Operations,Analyst,21462,2,No,1
+55,HR,Analyst,60581,1,Yes,1
+48,Finance,Manager,91289,3,Yes,0
+34,Finance,Manager,34175,2,Yes,1
+54,Operations,Intern,26191,3,Yes,1
+27,Engineering,Senior Executive,86537,3,Yes,0
+45,Marketing,Senior Executive,67645,1,No,0
+40,Finance,Intern,43283,1,No,0
+37,Engineering,Intern,79123,2,Yes,1
+49,Operations,Analyst,50024,1,Yes,1
+54,Sales,Intern,69630,2,Yes,1
+34,Marketing,Junior Executive,50734,3,Yes,0
+46,HR,Senior Executive,20515,3,Yes,1
+57,Finance,Intern,86727,2,No,0
+48,Engineering,Junior Executive,66216,3,No,0
+59,Sales,Junior Executive,91833,1,No,0
+28,HR,Junior Executive,78755,3,Yes,0
+26,Engineering,Junior Executive,47856,1,Yes,1
+52,Engineering,Analyst,93870,2,No,0
+44,HR,Junior Executive,44162,2,No,0
+31,Sales,Analyst,26008,3,Yes,1
+53,Operations,Analyst,27987,3,No,0
+51,Sales,Junior Executive,82532,1,No,0
+52,Marketing,Senior Executive,23332,1,Yes,1
+39,Finance,Junior Executive,86323,3,No,0
+57,HR,Junior Executive,58990,3,No,0
+23,Operations,Junior Executive,29873,2,No,1
+35,HR,Senior Executive,56444,2,Yes,1
+34,HR,Manager,55340,2,No,0
+50,Sales,Manager,25033,3,No,0
+33,Finance,Analyst,93324,3,No,0
+23,Marketing,Analyst,35689,3,Yes,1
+53,Engineering,Senior Executive,20066,2,Yes,1
+34,Engineering,Intern,65246,3,No,0
+48,HR,Manager,27533,1,Yes,1
+38,Finance,Analyst,90152,3,No,0
+52,Operations,Manager,79658,3,Yes,0
+55,Sales,Senior Executive,58498,3,Yes,0
+45,Finance,Senior Executive,31772,3,No,0
+56,Finance,Intern,69036,3,No,0
+27,Sales,Intern,78531,1,No,0
+40,HR,Senior Executive,32940,1,Yes,1
+51,Finance,Analyst,36932,3,No,0
+28,Engineering,Manager,76827,2,Yes,1
+31,Sales,Junior Executive,81431,3,Yes,0
+53,Operations,Intern,44648,3,No,0
+55,Marketing,Junior Executive,52966,3,Yes,0
+49,HR,Analyst,47777,2,No,0
+36,Sales,Intern,52567,2,Yes,1
+51,Marketing,Junior Executive,37174,2,No,1
+58,Marketing,Analyst,62598,1,Yes,1
+50,Operations,Manager,79199,2,Yes,1
+43,Finance,Analyst,33798,1,No,1
+25,Operations,Intern,85364,1,Yes,1
+41,Finance,Senior Executive,37558,2,No,1
+53,Finance,Manager,81084,2,Yes,1
+57,Sales,Junior Executive,64237,2,Yes,1
+25,Sales,Intern,85497,1,Yes,1
+48,HR,Senior Executive,20178,3,No,0
+38,Finance,Analyst,37118,2,No,1
+33,Marketing,Senior Executive,42616,2,No,0
+43,Engineering,Intern,20798,2,No,1
+38,HR,Intern,27601,1,No,1
+31,Sales,Senior Executive,45363,1,Yes,1
+22,Operations,Analyst,22795,3,Yes,1
+43,HR,Senior Executive,65264,2,No,0
+47,HR,Intern,92833,1,Yes,1
+39,HR,Intern,23084,3,Yes,1
+35,HR,Junior Executive,96646,2,Yes,1
+50,Engineering,Junior Executive,20731,1,Yes,1
+33,Operations,Manager,21129,2,No,1
+57,Operations,Intern,48022,2,Yes,1
+56,Operations,Junior Executive,21605,1,No,1
+33,Finance,Senior Executive,97506,1,No,0
+28,Marketing,Analyst,64130,1,Yes,1
+50,Operations,Senior Executive,49265,2,No,0
+32,HR,Analyst,52330,2,Yes,1
+54,HR,Junior Executive,88469,3,Yes,0
+27,Operations,Manager,35187,2,Yes,1
+36,Operations,Senior Executive,45791,1,No,0
+53,HR,Senior Executive,90610,2,No,0
+32,Finance,Senior Executive,59867,3,No,0
+44,Sales,Analyst,20893,3,Yes,1
+47,Sales,Junior Executive,39773,1,Yes,1
+55,Operations,Senior Executive,24239,1,Yes,1
+55,Engineering,Senior Executive,40863,3,No,0
+50,Operations,Manager,71415,3,Yes,0
+25,Operations,Manager,88968,3,Yes,0
+38,Sales,Junior Executive,80430,1,No,0
+56,HR,Junior Executive,21515,3,No,0
+34,Operations,Intern,34605,3,No,0
+36,HR,Manager,76240,1,Yes,1
+50,HR,Intern,25586,2,Yes,1
+50,Engineering,Analyst,51186,2,Yes,1
+32,HR,Intern,46928,3,No,0
+53,Sales,Senior Executive,40711,2,No,0
+23,Finance,Intern,74962,2,No,0
+35,Finance,Junior Executive,40039,2,No,0
+41,Marketing,Analyst,56561,2,Yes,1
+43,Operations,Senior Executive,95483,3,Yes,0
+32,Sales,Intern,21577,2,Yes,1
+48,HR,Analyst,48350,2,Yes,1
+24,Finance,Analyst,53798,1,Yes,1
+38,Sales,Senior Executive,30785,3,Yes,1
+49,Finance,Intern,92227,1,Yes,1
+50,HR,Analyst,81957,1,Yes,1
+42,Finance,Analyst,85431,3,No,0
+37,Operations,Manager,37297,2,No,1
+58,Operations,Analyst,91894,1,Yes,1
+41,Marketing,Manager,83772,3,No,0
+27,Marketing,Intern,39581,2,Yes,1
+40,Finance,Intern,75192,3,Yes,0
+26,Sales,Intern,21462,1,No,1
+24,Operations,Junior Executive,84173,2,Yes,1
+22,Sales,Intern,35511,2,Yes,1
+59,Sales,Analyst,96106,3,Yes,0
+36,Finance,Senior Executive,68665,2,Yes,1
+55,Sales,Manager,64414,1,Yes,1
+56,Operations,Junior Executive,92573,1,Yes,1
+46,HR,Intern,33386,1,Yes,1
+45,Marketing,Intern,74460,3,No,0
+33,HR,Senior Executive,26221,2,No,1
+39,Sales,Senior Executive,43474,2,Yes,1
+36,HR,Junior Executive,41045,2,No,0
+37,Operations,Manager,24922,1,Yes,1
+48,Operations,Intern,42706,2,Yes,1
+29,Sales,Junior Executive,62771,1,Yes,1
+46,Finance,Analyst,72335,2,Yes,1
+38,HR,Analyst,72949,1,No,0
+50,Finance,Junior Executive,90714,2,No,0
+29,Finance,Intern,35240,3,No,0
+36,Engineering,Junior Executive,22716,3,No,0
+48,Sales,Intern,36574,1,Yes,1
+28,Marketing,Senior Executive,93717,1,No,0
+24,Operations,Junior Executive,64066,2,Yes,1
+50,Operations,Intern,81826,2,Yes,1
+45,Sales,Junior Executive,40213,3,No,0
+24,Marketing,Junior Executive,91916,2,Yes,1
+41,Operations,Intern,86151,1,No,0
+36,Sales,Intern,70906,1,No,0
+46,Operations,Manager,20463,1,No,1
+51,Finance,Junior Executive,51973,1,No,0
+35,HR,Analyst,94694,1,No,0
+28,HR,Junior Executive,40651,3,Yes,0
+38,Operations,Junior Executive,88694,3,No,0
+41,Engineering,Intern,40008,1,No,0
+57,Marketing,Junior Executive,90474,2,Yes,1
+30,Marketing,Junior Executive,58185,1,No,0
+59,Marketing,Analyst,94417,3,No,0
+43,Finance,Intern,91139,1,Yes,1
+23,Marketing,Junior Executive,54980,3,Yes,0
+45,HR,Senior Executive,42504,3,No,0
+29,Finance,Manager,74970,1,Yes,1
+32,Sales,Analyst,36766,1,No,1
+34,Marketing,Junior Executive,31695,2,Yes,1
+38,Marketing,Senior Executive,37796,3,No,0
+29,Sales,Junior Executive,62543,2,No,0
+42,Marketing,Junior Executive,34559,1,No,1
+39,Sales,Intern,53139,3,Yes,0
+51,Finance,Intern,28802,2,No,1
+39,HR,Intern,93843,2,Yes,1
+52,Sales,Senior Executive,60205,2,No,0
+59,Engineering,Junior Executive,54159,1,No,0
+53,Sales,Manager,31516,1,No,1
+32,Marketing,Analyst,70492,1,No,0
